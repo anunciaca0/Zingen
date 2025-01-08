@@ -11,7 +11,7 @@ Projeto de uma landing page de produto desenvolvido durante as aulas sobre Respo
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src=".github/desktop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
