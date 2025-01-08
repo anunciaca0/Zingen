@@ -11,7 +11,10 @@ Projeto de uma landing page de produto desenvolvido durante as aulas sobre Respo
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/desktop.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src="/github/desktop.png" width="100%">
+</p>
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src="/github/mobile.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse desenvolvi a Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
+Nesse projeto desenvolvi a Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
 
 Aprendi várias técnicas de CSS e como deixar um projeto responsivo.
